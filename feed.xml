@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catch My Mold - Mold Assessment News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest mold assessment news and tips from Catch My Mold in Los Angeles, CA.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2026 20:34:36 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>Support@catchmymold.com (Catch My Mold)</managingEditor>
+    <webMaster>Support@catchmymold.com (Catch My Mold)</webMaster>
+    
+  </channel>
+</rss>
